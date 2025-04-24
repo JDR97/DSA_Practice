@@ -14,7 +14,7 @@ def palindrome(num):
 
 
 def main():
-    number = 45540
+    number = 1221
 
     if palindrome(number):
         print(number, "is a palindrome.")
